@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wearehackerware
-- 👀 I’m interested in software application,script creatio and ethical hacking
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on software development and pentesting
+- 👀 I’m interested in software application,script creation and ethical hacking
+- 🌱 I’m currently learning cyber security
+- 💞️ I’m looking to collaborate on bug bounty and pentesting
 - 📫 How to reach me wearehackerware@git.com  or scottkaluku@gmail.com
 
 <!---
